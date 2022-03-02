@@ -1,3 +1,3 @@
 # DioSistemaBancario 💚 🚀
 ## ExercicioDio 🏦
-Labs de aplicativo feature itau
+CodeLabs de aplicativo feature itau
